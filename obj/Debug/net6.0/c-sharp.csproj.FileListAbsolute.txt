@@ -1,0 +1,15 @@
+/Users/cherie/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/cherie/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/cherie/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/cherie/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/cherie/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/cherie/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
